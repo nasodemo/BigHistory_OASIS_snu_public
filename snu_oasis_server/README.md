@@ -21,6 +21,8 @@ async function makeAnswer(word: string, question: any) {
           },
         {"role": "user", "content": "다음은" + word + "에 대해 학문들을 융합한 질문입니다." + question}
       ]});
+
+
       let content = response.choices[0].message.content;
       console.log('#####output content of GPT in makequestion process#####\n', content)
       return content;
