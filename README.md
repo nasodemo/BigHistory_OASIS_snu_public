@@ -1,4 +1,4 @@
-# snu_oasis_public
+# BigHistory_OASIS_snu_public
 논문명: 빅 히스토리를 활용한 AI 기반 융합질문 생성 교육용 서비스 ‘OASIS’ 개발
 
 
