@@ -1,4 +1,5 @@
 # snu_oasis_public
+논문명: 빅 히스토리를 활용한 AI 기반 융합질문 생성 교육용 서비스 ‘OASIS’ 개발
 2023 학생자율연구 프로젝트 결과물 OASIS의 pubilc용 코드입니다. (담당자 김태욱(nasodemo))
 
 
